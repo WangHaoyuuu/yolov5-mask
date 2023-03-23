@@ -6,7 +6,7 @@
 源码包含了yolov5的部分使用到的源码
 
 ## GUI
-visual.py为自创GUI文件，直接运行即可
+visual.py为GUI文件，直接运行即可
 
 
 ## 是否启用GPU
